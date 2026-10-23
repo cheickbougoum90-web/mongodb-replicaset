@@ -1,0 +1,5 @@
+# Données et journaux MongoDB générés localement
+data/
+logs/
+*.log
+*.lock
