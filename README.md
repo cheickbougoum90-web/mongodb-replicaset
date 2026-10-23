@@ -2,7 +2,7 @@
 
 Étude et mise en œuvre d'un **ReplicaSet MongoDB** sur une seule machine Windows : 3 nœuds de données (+ 1 arbitre optionnel) simulés via des ports distincts, avec tests de réplication, de failover automatique, de réintégration d'un nœud et de lecture sur les Secondaries.
 
-Projet de bases de données NoSQL réalisé à l'**ESMT Dakar** (formateur : M. Preira) par une équipe de 3 étudiants
+Projet de bases de données NoSQL réalisé à l'**ESMT Dakar** (formateur : M. Preira) par une équipe de 3 étudiants: : BOUGOUM Cheick, HOUNKANRIN Fahouk, SISSAO Grace.
 > Le rapport complet (concepts, déploiement, tests, limites) est disponible dans [`docs/Rapport_ReplicaSet_MongoDB.docx`](docs/Rapport_ReplicaSet_MongoDB.docx).
 
 ## Problématique
